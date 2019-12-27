@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\execp\execp\bin\Debug\netcoreapp3.0\execp.exe
+C:\Users\Lucas\source\repos\execp\execp\bin\Debug\netcoreapp3.0\execp.deps.json
+C:\Users\Lucas\source\repos\execp\execp\bin\Debug\netcoreapp3.0\execp.runtimeconfig.json
+C:\Users\Lucas\source\repos\execp\execp\bin\Debug\netcoreapp3.0\execp.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\execp\execp\bin\Debug\netcoreapp3.0\execp.dll
+C:\Users\Lucas\source\repos\execp\execp\bin\Debug\netcoreapp3.0\execp.pdb
+C:\Users\Lucas\source\repos\execp\execp\obj\Debug\netcoreapp3.0\execp.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\execp\execp\obj\Debug\netcoreapp3.0\execp.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\execp\execp\obj\Debug\netcoreapp3.0\execp.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\execp\execp\obj\Debug\netcoreapp3.0\execp.dll
+C:\Users\Lucas\source\repos\execp\execp\obj\Debug\netcoreapp3.0\execp.pdb
